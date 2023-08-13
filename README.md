@@ -12,18 +12,23 @@ Working on this game myself to learn more japanese and also making learning more
 Adding content, features, fixing, polishing, planning on the gamification part.  
 
 
+###### Video: Gameplay 
+https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/7c6cc675-3d9d-4300-b2dd-38bf3498f471
+
+
+
 ###### Image: Main Menu - Level Select 
 ![jlptlearnerapp_1c](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/59c409b9-e95c-4bb4-996b-b9b82e3600a9)
 
 ###### Image: Level Selected (only if JLPT N5-N1) - Choose Kanji or Vocabulary 
-![jlptlearnerapp_1b](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/181ce452-f5c2-45d7-b00d-f62737628e1a)
+![jlptlearnerapp_1b2](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/2cac641a-cdb8-494c-aa16-e9adf49a5f2d)
 
 ###### Image: Lesson Select 
-![jlptlearnerapp_2](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/4050744d-6883-4143-bdc8-e4722fccc16c)
+![jlptlearnerapp_2b](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/24a1c9d9-462b-4330-bd7a-48e5a745db7b)
+
 
 ##
 # Lesson Types
-
 
 ###### Image: Lesson - Choose Correct Character & Choose Correct Reading
 **How it works:**  
