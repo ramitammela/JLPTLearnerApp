@@ -46,3 +46,8 @@ From 5 Pairs, user need to tap 2 correct buttons to make a pair.
 User tries to remember what the character is, and then taps to show the answer and then taps red or green depending if remembered or not.
 ![jlptlearnerapp_4c](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/739b29c9-f453-48fa-a649-60bbdef23955)
 
+##
+
+###### Image: This is how content is added / edited. ID is for later usage, when counter feature is added to keep up record how many times completed each
+![jlptlearnerapp_8](https://github.com/ramitammela/JLPTLearnerApp/assets/33514265/f5e05217-7e8e-40db-aba4-ebe29de9cdac)
+
